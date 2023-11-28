@@ -1,6 +1,5 @@
-// https://jsonplaceholder.typicode.com/users
-
-[{
+[
+  {
   "name":"Temp Name-1",
   "age":1
 },
