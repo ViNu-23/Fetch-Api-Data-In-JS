@@ -30,9 +30,6 @@ This project does not have any external dependencies. It relies on the native Fe
 ## Contributing
 If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
 
-## License
-This project is licensed under the MIT License.
-
 ## Remark 
 Before running Make sure you Fixed : "null has been blocked by CORS policy" Error in JavaScript AJAX Before running in Chrome or any other
 browser or "use Visual Studio Code Live Server Extension".
