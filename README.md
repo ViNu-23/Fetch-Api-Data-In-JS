@@ -34,5 +34,6 @@ If you find any issues or have suggestions for improvement, feel free to open an
 This project is licensed under the MIT License.
 
 ## Remark 
-Make sure you Fixed : "null has been blocked by CORS policy" Error in JavaScript AJAX Before running or use Visual Studio Code
-Live Server Extension
+Make sure you Fixed : "null has been blocked by CORS policy" Error in JavaScript AJAX Before running in Chrome or any 
+browser or "use Visual Studio Code
+Live Server Extension"
