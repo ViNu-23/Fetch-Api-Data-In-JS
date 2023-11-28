@@ -32,3 +32,5 @@ If you find any issues or have suggestions for improvement, feel free to open an
 
 ## License
 This project is licensed under the MIT License.
+
+##  Make sure you Fixed : "null has been blocked by CORS policy" Error in JavaScript AJAX Before running
